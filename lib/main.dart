@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Text(
           text,
           style: TextStyle(
-            fontSize: 50.0,
+            fontSize: 51.0,
             color: Colors.white,
           ),
         ),
